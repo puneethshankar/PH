@@ -7,7 +7,8 @@
 ;               2)DSM in Geotiff
 ;
 ;DELIVERABLE(s): 1)Corresponding CANOPY MAP/MASK in Geotiff
-;                2)polygon shapefile containing total crop surface volume information                
+;                2)polygon shapefile containing total crop surface volume information 
+;                >>Sample output : https://www.dropbox.com/sh/l1weca55pqg5k3n/AAC6h-ZTm2F_jCBzrqw4d4dVa?dl=0
 ;
 ;CODE tested upon: SYNGENTA DATA             
 ;               1)Stanton_Trip3_Plant1_BGNIR_50m_Ortho.tif
