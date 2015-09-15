@@ -52,14 +52,7 @@ function gdd,day,MONTH,YEAR,LOCAL_HOUR,LOCAL_MINUTES,latitude,longitude
   ;Local_hour = time[3]
   ;Local_minutes = time[4]
 
-  ;test data
-  ;day=25   ;Stanton trip3 plant 1 : 06/25/2015 @ 9:58pm
-  ;MONTH=6
-  ;YEAR=2015
-  ;LOCAL_HOUR=21
-  ;LOCAL_MINUTES=58
-  ;Latitude = 44.47770000
-  ;Longitude = -93.02988889
+ 
   julday_data=julday(MONTH,day,year)
   print,'Input sample date  : ' +STRTRIM(STRING(month),2)+'/'+STRTRIM(STRING(Day),2)+'/'+STRTRIM(year,2)
 
